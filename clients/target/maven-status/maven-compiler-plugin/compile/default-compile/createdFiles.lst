@@ -1,0 +1,14 @@
+com/kontia/client/homegrown/HomeGrownHttpClient.class
+com/kontia/client/springrest/SpringRestTemplateClient.class
+com/kontia/client/jdk/JDKDefaultHttpClient.class
+com/kontia/StartApp.class
+com/kontia/client/homegrown/HttpRequest.class
+com/kontia/client/ClientServlet.class
+com/kontia/client/hystrix/MyCommand.class
+com/kontia/client/apache43/ApacheHttp43Client.class
+com/kontia/client/springrest/SpringRestTemplateClient$1.class
+com/kontia/client/ClientServlet$1.class
+com/kontia/client/Client.class
+com/kontia/client/hystrix/HystrixClient.class
+com/kontia/client/springrest/SpringRestTemplateClient$2.class
+com/kontia/client/apache43/MyResponseHandler.class

@@ -1,0 +1,11 @@
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/apache43/ApacheHttp43Client.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/jdk/JDKDefaultHttpClient.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/hystrix/HystrixClient.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/springrest/SpringRestTemplateClient.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/Client.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/homegrown/HomeGrownHttpClient.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/apache43/MyResponseHandler.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/ClientServlet.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/StartApp.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/homegrown/HttpRequest.java
+/Users/vikashkumar/Downloads/sourcecode/samples/test/examples/clients/src/main/java/com/kontia/client/hystrix/MyCommand.java
